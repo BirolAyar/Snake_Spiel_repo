@@ -2,4 +2,8 @@
 * text=auto
 #Hallo test 1
 #Test 2 dorian
+<<<<<<< Updated upstream
 #Test 3 Marcello
+=======
+'test 3 '
+>>>>>>> Stashed changes
